@@ -1,0 +1,8 @@
+# Cursor & AI Assistant Rules for My Capstone Project
+
+Repository: https://github.com/Kingtheblaze/my-capstone-project.git
+
+- Keep code clean, modular, and well-documented.
+- Ensure UI components feature modern aesthetics, responsive layouts, and clean CSS variables.
+- Do not commit secrets or environment variables (.env).
+- Follow standard Git conventions.
